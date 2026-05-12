@@ -86,12 +86,17 @@ passion: Building clean, functional web apps
 
 ---
 
+## 💬 Feedback দিন
+আমার কাজ কেমন লাগলো জানান 👇
+
+[![Discussions](https://img.shields.io/badge/💬_Feedback_দিন-GitHub_Discussions-brightgreen?style=for-the-badge)](https://github.com/mahdi-hasan-developer/mahdi-hasan-developer/discussions)
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahdi--hasan--developer-181717?style=for-the-badge&logo=github)](https://github.com/mahdi-hasan-developer)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdihasan.life@gmail.com)
 
 </div>
 
