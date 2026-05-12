@@ -26,7 +26,7 @@
 name: Mahdi Hasan
 username: mahdi-hasan-developer
 location: Bangladesh 🇧🇩
-currently_working_on: Web Development Projects
+currently_working_on: PHP-based web applications and portfolio projects
 learning: JavaScript · React · Laravel
 available_for: Freelance & Collaboration
 passion: Building clean, functional web apps
@@ -76,7 +76,7 @@ passion: Building clean, functional web apps
 
 ---
 
-## 📈 My Goals for 2025
+## 📈 My Goals for 2026
 
 - [ ] 🎯 Master **React.js** & **Laravel**
 - [ ] 🌐 Build **5+ full-stack projects**
@@ -87,7 +87,7 @@ passion: Building clean, functional web apps
 ---
 
 ## 💬 Share your feedback
-Let me know what you think about my work 👇
+I'd love to hear your feedback, suggestions, or collaboration ideas 👇
 
 [![Discussions](https://img.shields.io/badge/💬_Feedback_দিন-GitHub_Discussions-brightgreen?style=for-the-badge)](https://github.com/mahdi-hasan-developer/mahdi-hasan-developer/discussions)
 
@@ -104,10 +104,10 @@ Let me know what you think about my work 👇
 
 <div align="center">
 
-**If you like my work, please give a star to my repositories! ⭐**
+**If you like my work, consider giving a star to my repositories! ⭐**
 
 ```
-"First, solve the problem. Then, write the code." – John Johnson
+"Keep building, keep learning, and keep improving."
 ```
 
 </div>
