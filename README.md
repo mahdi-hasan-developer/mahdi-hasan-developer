@@ -53,19 +53,14 @@ passion: Building clean, functional web apps
 
 ---
 
-### 🔥 GitHub Stats
-
-| GitHub Stats | Top Languages |
-|--------------|----------------|
-| ![GitHub stats](https://github-readme-stats-xi-eight-56.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats-xi-eight-56.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight) |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Mahdi's GitHub Stats](https://github-readme-stats-roan-delta-mmlj14ohye.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-roan-delta-mmlj14ohye.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-hasan-developer&theme=tokyonight&hide_border=true)
 
