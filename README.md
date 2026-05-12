@@ -1,20 +1,21 @@
 <div align="center">
 
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9BF0&center=true&vCenter=true&width=435&lines=Mahdi+Hasan;Web+Developer;PHP+Enthusiast;Problem+Solver" alt="Typing SVG" />
 ███╗   ███╗ █████╗ ██╗  ██╗██████╗ ██╗
 ████╗ ████║██╔══██╗██║  ██║██╔══██╗██║
 ██╔████╔██║███████║███████║██║  ██║██║
 ██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
-```
+
 
 # Hi there, I'm Mahdi Hasan 👋
 
 ### 🚀 Web Developer | PHP Enthusiast | Problem Solver
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mahdi-hasan-developer&color=brightgreen&style=flat-square)](https://github.com/mahdi-hasan-developer)
-[![GitHub followers](https://img.shields.io/github/followers/mahdi-hasan-developer?label=Followers&style=flat-square&color=blue)](https://github.com/mahdi-hasan-developer)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahdi-hasan-developer&color=0e7eb6&style=flat-square&label=Profile+Views)](https://github.com/mahdi-hasan-developer)
+[![GitHub followers](https://img.shields.io/github/followers/mahdi-hasan-developer?label=Followers&style=flat-square&color=0e7eb6)](https://github.com/mahdi-hasan-developer)
+[![GitHub stars](https://img.shields.io/github/stars/mahdi-hasan-developer?label=Total%20Stars&style=flat-square&color=yellow)](https://github.com/mahdi-hasan-developer)
 
 </div>
 
@@ -23,86 +24,31 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Mahdi Hasan
-username: mahdi-hasan-developer
-location: Bangladesh 🇧🇩
-currently_working_on: Web Development Projects
-learning: JavaScript · React · Laravel
-available_for: Freelance & Collaboration
-passion: Building clean, functional web apps
-```
+╭─────────────────────────────────────────────╮
+│  name              : Mahdi Hasan            │
+│  username          : mahdi-hasan-developer  │
+│  location          : Bangladesh 🇧🇩         │
+│  currently_working : Web Development        │
+│  learning          : JavaScript · React     │
+│  fun_fact          : I love problem solving │
+╰─────────────────────────────────────────────╯
 
----
+🛠️ Tech Stack
+💻 Languages
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-## 🛠️ Tech Stack
+🧰 Frameworks & Tools
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
-**Languages & Markup**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Statistics
 <div align="center">
-
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-hasan-developer&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### 🚗 [Sotota Rent-A-Car](https://github.com/mahdi-hasan-developer/sotota-rent-a-car)
-> A complete car rental management system built with PHP
-> 
-> `PHP` `MySQL` `HTML` `CSS` `Bootstrap`
-
----
-
-## 📈 My Goals for 2025
-
-- [ ] 🎯 Master **React.js** & **Laravel**
-- [ ] 🌐 Build **5+ full-stack projects**
-- [ ] 🤝 Contribute to **Open Source**
-- [ ] 📚 Learn **REST API** development
-- [ ] 💼 Land my first **freelance client**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mahdi--hasan--developer-181717?style=for-the-badge&logo=github)](https://github.com/mahdi-hasan-developer)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ যদি আমার কাজ ভালো লাগে, তাহলে repositories গুলোতে Star দিন!**
-
-```
-"First, solve the problem. Then, write the code." – John Johnson
-```
-
+https://github-readme-stats.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=2d9bf0&title_color=2d9bf0	https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2d9bf0
+https://streak-stats.demolab.com?user=mahdi-hasan-developer&theme=tokyonight&hide_border=true&background=0d1117&stroke=2d9bf0&ring=2d9bf0&fire=2d9bf0&currStreakNum=ffffff	https://github-readme-activity-graph.vercel.app/graph?username=mahdi-hasan-developer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=2d9bf0&point=ffffff
 </div>
