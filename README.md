@@ -53,6 +53,12 @@ passion: Building clean, functional web apps
 
 ---
 
+### 🔥 GitHub Stats
+
+| GitHub Stats | Top Languages |
+|--------------|----------------|
+| ![GitHub stats](https://github-readme-stats-xi-eight-56.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats-xi-eight-56.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight) |
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,7 +95,7 @@ passion: Building clean, functional web apps
 ## 💬 Share your feedback
 I'd love to hear your feedback, suggestions, or collaboration ideas 👇
 
-[![Discussions](https://img.shields.io/badge/💬_Feedback_দিন-GitHub_Discussions-brightgreen?style=for-the-badge)](https://github.com/mahdi-hasan-developer/mahdi-hasan-developer/discussions)
+[![Discussions](https://img.shields.io/badge/💬_Share_your_feedback-GitHub_Discussions-brightgreen?style=for-the-badge)](https://github.com/mahdi-hasan-developer/mahdi-hasan-developer/discussions)
 
 ## 🤝 Let's Connect
 
