@@ -57,9 +57,9 @@ passion: Building clean, functional web apps
 
 <div align="center">
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-hasan-developer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-hasan-developer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-hasan-developer&theme=tokyonight&hide_border=true)
 
@@ -86,8 +86,8 @@ passion: Building clean, functional web apps
 
 ---
 
-## 💬 Feedback দিন
-আমার কাজ কেমন লাগলো জানান 👇
+## 💬 Share your feedback
+Let me know what you think about my work 👇
 
 [![Discussions](https://img.shields.io/badge/💬_Feedback_দিন-GitHub_Discussions-brightgreen?style=for-the-badge)](https://github.com/mahdi-hasan-developer/mahdi-hasan-developer/discussions)
 
@@ -104,7 +104,7 @@ passion: Building clean, functional web apps
 
 <div align="center">
 
-**⭐ যদি আমার কাজ ভালো লাগে, তাহলে repositories গুলোতে Star দিন!**
+**If you like my work, please give a star to my repositories! ⭐**
 
 ```
 "First, solve the problem. Then, write the code." – John Johnson
